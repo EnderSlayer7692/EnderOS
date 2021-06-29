@@ -1,4 +1,4 @@
-# Simple Operating System
+# EnderOS
 An operating system written in assembly, C, and C++ designed to be simple and easily modifiable.
 # How To Use
 ## Compiling
@@ -16,5 +16,5 @@ sudo apt-get install gcc
 sudo apt-get install nano
 ```
 
-Once you have ran all of those commands, (supposing you had no errors, but if you did, [fix them here](https://github.com/EnderSlayer6792/SimpleOperatingSystem/wiki/Fixing-Errors))
+Once you have ran all of those commands, (supposing you had no errors, but if you did, [fix them here](https://github.com/EnderSlayer6792/EnderOS/wiki/Fixing-Errors))
 
