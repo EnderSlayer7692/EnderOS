@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## EnderOS
 
 You can use the [editor on GitHub](https://github.com/EnderSlayer6792/SimpleOperatingSystem/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
