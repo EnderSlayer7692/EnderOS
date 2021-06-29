@@ -17,3 +17,4 @@ sudo apt-get install nano
 ```
 
 Once you have ran all of those commands, (supposing you had no errors, but if you did, [fix them here](https://github.com/EnderSlayer6792/SimpleOperatingSystem/wiki/Fixing-Errors))
+
